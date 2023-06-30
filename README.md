@@ -12,6 +12,8 @@ Create a Terraform configuration file (e.g., s3-bucket.tf) with the following co
 
 # terraform apply
 
+Here's an example of a Dockerfile that includes the necessary dependencies
+
 
 
 
